@@ -2,7 +2,7 @@
 .appVersion = "1192";
 DisplayStrings = (
 A,
-"ABCDEFGHIJKLMN\012OPQRSTUVWXYZ\012abcdefghijklmn\012opqrstuvwxyz\012\012WE ARE DOGE SANS\012A TYPEFACE THAT \012IS ENTIRERLY OUR OWN.\012\012we are doge sans\012a typeface that is \012entirerly our own."
+"ABCDEFGHIJKLMN\012OPQRSTUVWX\012abcdefghijklmn\012opqrstuvwxyz\012\012WE ARE DOGE SANS\012A TYPEFACE THAT \012IS ENTIRERLY OUR OWN.\012\012we are doge sans\012a typeface that is \012entirerly our own."
 );
 date = "2014-07-02 00:38:21 +0000";
 designer = "Sebastian Graz";
@@ -23095,12 +23095,6 @@ unicode = 02DC;
 }
 );
 instances = (
-{
-instanceInterpolations = {
-"24C63A81-7FC6-4EE9-AF2B-C1140AFD6C4B" = 1;
-};
-name = Regular;
-},
 {
 instanceInterpolations = {
 "24C63A81-7FC6-4EE9-AF2B-C1140AFD6C4B" = 1;
